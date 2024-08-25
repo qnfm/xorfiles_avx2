@@ -9,7 +9,7 @@ license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/qnfm/xorfiles_avx2"
 repository = "https://github.com/qnfm/xorfiles_avx2"
-keywords = ["xor", "cryptor", "avx2", "simd", "CLI"]  # Add relevant keywords
-categories = ["cryptography", "command-line-utilities", "utilities"]  # Choose appropriate categories
+keywords = ["xor", "cryptor", "avx2", "simd", "CLI"]
+categories = ["cryptography", "command-line-utilities"]
 
 [dependencies]
