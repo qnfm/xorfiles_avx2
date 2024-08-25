@@ -3,6 +3,13 @@ name = "xorfiles_avx2"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["qnfm <eirivihe@gmail.com>"]
+description = "A Rust project for XOR file operations using AVX2 instructions."
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/qnfm/xorfiles_avx2"
+repository = "https://github.com/qnfm/xorfiles_avx2"
+keywords = ["xor", "avx2", "simd", "rust"]  # Add relevant keywords
+categories = ["utilities", "data-structures"]  # Choose appropriate categories
 
 [dependencies]
