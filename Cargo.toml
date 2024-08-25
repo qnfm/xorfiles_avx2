@@ -4,12 +4,12 @@ version = "0.1.0"
 edition = "2021"
 
 authors = ["qnfm <eirivihe@gmail.com>"]
-description = "A Rust project for XOR file operations using AVX2 instructions."
+description = "A Rust cli for XOR file operations using AVX2 instructions."
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/qnfm/xorfiles_avx2"
 repository = "https://github.com/qnfm/xorfiles_avx2"
-keywords = ["xor", "avx2", "simd", "rust"]  # Add relevant keywords
-categories = ["utilities", "data-structures"]  # Choose appropriate categories
+keywords = ["xor", "cryptor", "avx2", "simd", "CLI", "terminal"]  # Add relevant keywords
+categories = ["cryptography", "command-line-utilities", "utilities"]  # Choose appropriate categories
 
 [dependencies]
